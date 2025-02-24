@@ -25,3 +25,5 @@ Welcome to the Modern Calculator Web App GitHub repository! This project is a sl
 🔹 JavaScript – Functional logic for calculations
 
 📌 Feel free to contribute, report issues, or suggest improvements!
+
+🔗 Live Demo: [https://calculator.netlify.app]
